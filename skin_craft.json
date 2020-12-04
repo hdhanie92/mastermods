@@ -1,0 +1,493 @@
+{
+	"Ads":
+  [
+    {
+      "status":"0",
+      "link":"http://",
+      "pengaturan_iklan":"2",
+      "admob_open_ads":"ca-app-pub-4804971141122070/9720451507",
+      "admob_banner":"ca-app-pub-4804971141122070/3781729111",
+      "admob_inter":"ca-app-pub-4804971141122070/3352028862",
+      "admob_native":"ca-app-pub-4804971141122070/4707797972",
+      "interval":1,
+      "fan_inter":"1011006199380828_1011009089380539",
+      "fan_banner":"1011006199380828_1011009389380509",
+      "fan_native":"1011006199380828_1011007389380709",
+      "startappid":""
+    }
+  ],
+  "More":
+  [
+    {
+      "id":1,
+      "judul":"Mods free Fire For MCPE",
+      "image":"https://play-lh.googleusercontent.com/-_K9UpxdI5hRr_3qmS4VIrvXZnY6KzXF2s2wBTmBDGk48uA63omSeRJS5E_n0i1kyd9R=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.arbanatappz.modMCPE"
+    },
+    {
+      "id":2,
+      "judul":"Mastercraft - Multicraft World craft buliding 2020",
+      "image":"https://play-lh.googleusercontent.com/Wsq-onw2No_hJqWWZXDgTKerBIlf7VkS2eEcV-fQ4C61gBptn4Cd2ZVjeaD7lGLOVJSR=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.towncraft.microlite.buildingword"
+    },
+    {
+      "id":3,
+      "judul":"Crowd Run City live 2020",
+      "image":"https://play-lh.googleusercontent.com/NCX-TZhVe98gTNxtyys-qTvWqwWuRdh4FjccA9o5aW0AVj4qJTgKlvoyQdiRWgSCCw=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.slentex.runtolive"
+    },
+    {
+      "id":4,
+      "judul":"Mods Mermaid For Minecraft - Master mods addon",
+      "image":"https://play-lh.googleusercontent.com/s59eVWK32W8XQjclZbNCjpt7sRtuXzp6cKo2xNz9Oxwav2n1zQ-dAPUssgXf_hlbwtDZ=s180-rw",
+      "link":"https://play.google.com/store/apps/details?id=com.dunti.mermaidmod"
+    }
+  ],
+  "Skin":
+  [
+    {
+      "id":1,
+      "nama_skin":"among us red",
+      "skin_url":"http://novask.in/4354763079.png",
+      "view_skin":"https://lh3.googleusercontent.com/h1TfkH4z5VVkytB39cRrIjvM8Q9ywEN68-ectw352qXMceAqnF1bBkQbkREBkMHX3lxFkUjPq7VzM2OA7MuciQ"
+    },
+    {
+      "id":2,
+      "nama_skin":"Among Us",
+      "skin_url":"http://novask.in/4318993207.png",
+      "view_skin":"https://lh3.googleusercontent.com/gcss2Bg9bPFnu0h9ti5butn3ggBePc_UCETxb_-J0gQf2X-mtacjec0BXNldsi6SnchymzW7OfaNYLnzILBt5WQ"
+    },
+    {
+      "id":3,
+      "nama_skin":"black among us skin - shuii",
+      "skin_url":"http://novask.in/4364403041.png",
+      "view_skin":"https://lh3.googleusercontent.com/URF7J5FY4233F8L2WmI218AnXwA2hwKdlKTEL4ChtxfUxTevYO_pYmaouxZDcYvfGdN8mx9oL-_iNoEms43VsaA"
+    },
+
+    {
+      "id":4,
+      "nama_skin":"Blue Among Us",
+      "skin_url":"http://novask.in/4376173037.png",
+      "view_skin":"https://lh3.googleusercontent.com/Ig1wn0Gh1-0b_aHgbfZWjZG9BwpRPW0moikskQSLX5VcxsMkEcm0Au6hwR6smAjJjvSN-XL78GWqHGFvLqt-fSE"
+    },
+    {
+      "id":5,
+      "nama_skin":"Among Us Green",
+      "skin_url":"http://novask.in/4383823026.png",
+      "view_skin":"https://lh3.googleusercontent.com/zydtHmv7UosqPg6oVGpyX7tLKEoMjV8gmP_Nbon39q2MFTf0Yw0rRiaZumMYUGM8olF7a6jSmy_VvCH_VJhSuLc"
+    },
+    {
+      "id":6,
+      "nama_skin":"Among Us Black Doctor",
+      "skin_url":"http://novask.in/4364553101.png",
+      "view_skin":"https://lh3.googleusercontent.com/6LSXov-nVk0zlJ1OSHgRikjBvGdSj0dOzsvAu1o4yPIIRE-KOosSXmyC3d2tI6fUPFfbeJg8Hgzk8AO7JB_vHw"
+    },
+    {
+      "id":7,
+      "nama_skin":"among us",
+      "skin_url":"http://novask.in/4358093032.png",
+      "view_skin":"https://lh3.googleusercontent.com/UKKfi0dw8S9Q3ym4gp-IB72t1MAR7K4s8xkEw1Njay9BHMocyGV6be8s_1I9XGGzWrMHLan9m-dKx_LcWAoilIM"
+    },
+    {
+      "id":8,
+      "nama_skin":"Among Us Black",
+      "skin_url":"http://novask.in/4400023029.png",
+      "view_skin":"https://lh3.googleusercontent.com/gBwGew_szwYHmpHvgeyudljDDiaVTkDyyDMjZ6F-qJVBBa60Yz7l2PWp62xN3cH4_zA47RPrCCuLjNqF87CXIw"
+    },
+    {
+      "id":9,
+      "nama_skin":"among us pink",
+      "skin_url":"http://novask.in/4384893136.png",
+      "view_skin":"https://lh3.googleusercontent.com/XneERJO-q6nXjiJyipiw2_tNwMKcqe31pRR73-NwizuUH1F3FSNMsNi39TfvzYhBnHHaYCyXfXDk7kUhZMBXwA"
+    },
+
+    {
+      "id":10,
+      "nama_skin":"among us yellow",
+      "skin_url":"http://novask.in/4348873243.png",
+      "view_skin":"https://lh3.googleusercontent.com/d02VWGFnfXkFXnpRZGB5_kJoiaLaX7cOp7P_R4u0FiQx1eZDC3llfl-tj2VCkxgZfmrcqe38R5DAfPFkFIxLnQ"
+    },
+    {
+      "id":11,
+      "nama_skin":"Among Us Black w/ helmet",
+      "skin_url":"http://novask.in/4403073060.png",
+      "view_skin":"https://lh3.googleusercontent.com/WlUjzKN9bu8xuV50HDx2CvMZKDEK5yHEGkd8lXuogc3nPa6oUxuMN3-scAZlH3jxIDwohqBlXB9vgdVd81qh1w"
+    },
+    {
+      "id":12,
+      "nama_skin":"among us cyan",
+      "skin_url":"http://novask.in/4391433027.png",
+      "view_skin":"https://lh3.googleusercontent.com/-fXbz2Vj60dJjez70EB5E4ToLliIfMOJ5v69YGYr9_iFOCMu1Ds1VSrEjINydmgooWJWpjQpEfesBoNgBkpzwQ"
+    },
+{
+      "id":13,
+      "nama_skin":"roupa do among us",
+      "skin_url":"http://novask.in/4407273117.png",
+      "view_skin":"https://lh3.googleusercontent.com/1UxwEkfVA47I9UDgFAIhWZpHZF_Cw1723dllVXoYGJ9F3oa2E4Q672b7kCEIcySyHV0CeMuX506woUhL0rmD"
+    },
+
+    {
+      "id":14,
+      "nama_skin":"green among us",
+      "skin_url":"http://novask.in/4418073156.png",
+      "view_skin":"https://lh3.googleusercontent.com/rflThF6o57lR_pnX08tysO_1med4aWWtGQswp81w9Jg9lCmaqZvkjSzfzfkTfpoZwSh9ZibYyovdOgkyprfY"
+    },
+    {
+      "id":15,
+      "nama_skin":"Green among us impostor",
+      "skin_url":"http://novask.in/4411583025.png",
+      "view_skin":"https://lh3.googleusercontent.com/hOVbo1BNse4jg8-3AfwflMljz4vkmuYxltUg1FpEQyt3CmxK0p0b0J3yXBi1hGC7DC2T7eM1iTNdyA_apyZxVA"
+    },
+    {
+      "id":16,
+      "nama_skin":"Blue Among Us",
+      "skin_url":"http://novask.in/4465463028.png",
+      "view_skin":"https://lh3.googleusercontent.com/WZvPAeDaIAvmW_jazHLvwcGha4hceATNIxeFdI5_6qSaGNurR_t7sQM_II39Pb4WRijDR0RrjVSr2Qu8cY5M"
+    },
+
+
+    {
+      "id":17,
+      "nama_skin":"Among Us Azul",
+      "skin_url":"http://novask.in/4449713260.png",
+      "view_skin":"https://lh3.googleusercontent.com/yztyh5QZQr7jNl0lb2LOSiWjQcobh0J14EA5xLG1dezg7myBx_4HFlC_usXDaWx1eSwfd7Hy912FzKB78TgN"
+    },
+    {
+      "id":18,
+      "nama_skin":"among us red",
+      "skin_url":"http://novask.in/4428103022.png",
+      "view_skin":"https://lh3.googleusercontent.com/gEHZGEkPFEiHmyNQuN0H0H6rmmO8uFLNUDgPjfBwXDpCx9tqNRjnigZjNADHSsybeo3ZoJbP2bz3XTwXzkMX6KI"
+    },
+    {
+      "id":19,
+      "nama_skin":"personagem vermelho among us",
+      "skin_url":"http://novask.in/3857823063.png",
+      "view_skin":"https://lh3.googleusercontent.com/kNGID4U0IGYtrXikVmuS-HE7MaGijtolamKrjxp-DBRCtuR2GEcAaP4nN9it9BEZ15-d5ZtrqmNY-Y7DJ-eCpA"
+    },
+
+    {
+      "id":20,
+      "nama_skin":"among us!",
+      "skin_url":"http://novask.in/4376353352.png",
+      "view_skin":"https://lh3.googleusercontent.com/-O2U2lbmSJFKy3a1J5YlVr7du9JJuqw1vlxKQf5vHL1YySmedozj8dYAxXnqg52i2z3pY-8BA8FYBDrYGOWJBw"
+    },
+    {
+      "id":21,
+      "nama_skin":"mermaid with no strek",
+      "skin_url":"http://novask.in/4177793082.png",
+      "view_skin":"https://lh3.googleusercontent.com/hJ4SYagWNIktb0RhdxErHGpW_MX1d-AdI-0bLVAxvN5dstSepRttNq4EsRVICPi09PlLeX4WIHdrirGVU4pfXQ"
+    },
+    {
+      "id":22,
+      "nama_skin":"Among US con diadema de oso",
+      "skin_url":"http://novask.in/4370464195.png",
+      "view_skin":"https://lh3.googleusercontent.com/N5v30cxY12QHxk9vwpwrgZ9nz2gGYodfkvbhjeqG6GM18uJkwxNFnv5V5nPsemmxhnCnuNeqaL3EdWoU5D0wIw"
+    },
+    {
+      "id":23,
+      "nama_skin":"Blue Among Us",
+      "skin_url":"http://novask.in/4515983024.png",
+      "view_skin":"https://lh3.googleusercontent.com/UZW1XGdk8HsQqEVFfu3j-TZ_h3jqY3ZauJE2UTCIPe_c1lHvLNGZXepB90cM_WNy5BLrr_tKoIw7XpWgP3gi"
+    },
+
+    {
+      "id":24,
+      "nama_skin":"Among Us",
+      "skin_url":"http://novask.in/4418073087.png",
+      "view_skin":"https://lh3.googleusercontent.com/W63g2-mX6-UsIngXDbo0CNfogd-UeDfk89LwzGCJrA9zbjWhsoRVVtcPHBafr3FLU2DLwuUghGzF2_PkXncTcw"
+    },
+    {
+      "id":25,
+      "nama_skin":"Among us Preto",
+      "skin_url":"http://novask.in/3259083080.png",
+      "view_skin":"https://lh3.googleusercontent.com/s6MAn8-8v-91BsGZQOHD_2lPcFHVinqGxBWE950HXon2ejftbIZikRXi0b0NC10IabrY6LHXN5duyIUjX8NBhA"
+    },
+    {
+      "id":26,
+      "nama_skin":"Criador do Among Us",
+      "skin_url":"http://novask.in/4453503241.png",
+      "view_skin":"https://lh3.googleusercontent.com/pzbEHd9qdEBBhqmVQ5fiDjkRFtYs9ipNHTfXhKXhAHbd3PuIV9O_nDDus9V8b-izNjSO8yOvQdBvt0lFtwvb1c4"
+    },
+
+
+    {
+      "id":27,
+      "nama_skin":"among us orange dead",
+      "skin_url":"http://novask.in/4421803262.png",
+      "view_skin":"https://lh3.googleusercontent.com/RRmK1y0uzuxqoza0l7xvKBtHcN0JF9eWFwFcrh7JwMnbVvSOuxVXoHCdgfx6sXWKUEgL6k2G5LvRQEntL2Yz2Y8"
+    },
+    {
+      "id":28,
+      "nama_skin":"among-us-red-suit",
+      "skin_url":"http://novask.in/4342463090.png",
+      "view_skin":"https://lh3.googleusercontent.com/SIUmiTE7zlR-LZYBvgXsSb9iTMTNP0ECTGoIP0j7qLQTG8sswhP80Gvc-P5ugrel1Dv6OxsFz3pTwovhiNOWqw"
+    },
+    {
+      "id":29,
+      "nama_skin":"among us green",
+      "skin_url":"http://novask.in/4356173063.png",
+      "view_skin":"https://lh3.googleusercontent.com/k8NIxDV4SszkaJXNoD8egrwWU3s9gSXWiTN4DA2UYJifpJlD-laIfcoI_ZXvorqxQuZxPA7dbgupVSmgimeDPr4"
+    },
+
+    {
+      "id":30,
+      "nama_skin":"among us raimbow",
+      "skin_url":"http://novask.in/4459103050.png",
+      "view_skin":"https://lh3.googleusercontent.com/zxx9HhjGLo7n5Ff2IkLNdlGmV341TzkgAiMtnzG9Il_1t1Xj1NFiPaQ3eGiS5l9d8ogkaCUC5GCdAyIPS8hZ0A"
+    },
+    {
+      "id":31,
+      "nama_skin":"Among us Branco",
+      "skin_url":"http://novask.in/3251153048.png",
+      "view_skin":"https://lh3.googleusercontent.com/wxifFhtwM5gXT0ea3-t8uWtQQd_3eF1Zgg8TerMns7pztY72Yj49WAVO2gh1ah80u-5fz1bcFZc8BNwqmjgrXGo"
+    },
+    {
+      "id":32,
+      "nama_skin":"Among Us White",
+      "skin_url":"http://novask.in/4473373416.png",
+      "view_skin":"https://lh3.googleusercontent.com/RoBgTaCEfXZOxUYIF2X3djw1nKdCBSADQ2Sqhind0iduRyQIEYN4atT4-EY2bqmNBgZ1trnHtk-Rp40CS25SNg"
+    }
+  ],
+  "Addons":
+  [
+    	{
+      "id":1,
+      "nama_add":"Axolotl",
+      "add_url":"http://danie.alienhosted.com/addon/axolotl_concept.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/axolotl_conceptB.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/axolotl_conceptR.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-10/1602511323_axolotl-1.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/axolotl_concept.html"
+    },
+	{
+      "id":2,
+      "nama_add":"Cenozoic",
+      "add_url":"http://danie.alienhosted.com/addon/cenozoiccraft_titanoboa.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/cenozoiccraft_titanoboaB.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/cenozoiccraft_titanoboaR.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-10/1602500645_cenozoic-7.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/cenozoiccraft_titanoboa.html"
+    },
+	{
+      "id":3,
+      "nama_add":"ChunkBounds",
+      "add_url":"http://danie.alienhosted.com/addon/chunksboundsshaders.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/chunksboundsshadersB.mcpack",
+      "addR_url":"http://danie.alienhosted.com/addon/chunksboundsshadersR.mcpack",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-10/1602504357_chunkbounds.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/chunksboundsshaders.html"
+    },
+	{
+      "id":4,
+      "nama_add":"Damage Indicators",
+      "add_url":"http://danie.alienhosted.com/addon/damage-indicator.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/damage-indicatorB.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/damage-indicatorR.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-06/1593180923_damage-indicators.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/damage-indicator.html"
+    },
+	{
+      "id":5,
+      "nama_add":"Iceologer",
+      "add_url":"http://danie.alienhosted.com/addon/iceologer.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/iceologerB.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/iceologerR.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-10/1602515222_iceloger-2.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/iceologer.html"
+    },
+	{
+      "id":6,
+      "nama_add":"Loot Bags",
+      "add_url":"http://danie.alienhosted.com/addon/lootbags.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/lootbags B.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/lootbags R.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-07/1595197170_lootbags-1.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/lootbags.html"
+    },
+	{
+      "id":7,
+      "nama_add":"More Structures",
+      "add_url":"http://danie.alienhosted.com/addon/more-structures.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/v2_6-more-structures-bp.mcaddon",
+      "addR_url":"http://danie.alienhosted.com/addon/v2_6-more-structures-rp.mcaddon",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-07/1594126152_small-structures-5.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/more-structures.html"
+    },
+	{
+      "id":8,
+      "nama_add":"Warden mob",
+      "add_url":"http://danie.alienhosted.com/addon/warden-replicas.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/warden-replicas-bp-by-ilosemypotato.mcpack",
+      "addR_url":"http://danie.alienhosted.com/addon/warden-replicas-by-ilosemypotato.mcpack",
+      "view_add":"https://fmcpe.com/uploads/posts/2020-10/1603045853_warden-1.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/warden-replicas.html"
+    },
+	{
+      "id":9,
+      "nama_add":"Alien Invasion",
+      "add_url":"http://danie.alienhosted.com/addon/x-ray.zip",
+      "addB_url":"http://danie.alienhosted.com/addon/x-ray-B.mcpack",
+      "addR_url":"http://danie.alienhosted.com/addon/x-ray-R.mcpack",
+      "view_add":"https://fmcpe.com/uploads/posts/2016-10/1477742312_alien-invasion-map-addon.jpg",
+      "des_add":"http://danie.alienhosted.com/addon/x-ray.html"
+    }
+  ],
+  "Maps":
+  [
+    {
+      "id":1,
+      "nama_map":"Hello Neighbor2",
+      "map_url":"https://aliendro.id/wp-content/addon/MC Battle Royal.zip",
+      "view_map":"https://aliendro.id/wp-content/addon/Hello Neighbor2.jpeg",
+      "des_map":"https://aliendro.id/wp-content/map/hello.html"
+    },
+    {
+      "id":2,
+      "nama_map":"Alien Invasion map for Minecraft PE 0.16.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/alien-invasion.605d227de07b.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1477742258_alien-invasion-spaceships.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/AlienInvasionmapforMinecraftPE.html"
+    },
+    {
+      "id":3,
+      "nama_map":"Bank Robbery map for Minecraft PE 0.16.2",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/bank-robbery.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-11/1480434166_bank-robbery-puzzle.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/BankRobberymap.html"
+    },
+	{
+      "id":4,
+      "nama_map":"Halloween map for Minecraft PE 0.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/house-of-horrors.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-11/1478614879_horror-house-screenshot.jpg",
+      "des_map":"hhttp://danie.alienhosted.com/mapsminecraft/Halloweenmap.html"
+    },
+	{
+      "id":5,
+      "nama_map":"Blood Evening horror map for Minecraft PE 1.0.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/blood-evening.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-12/1481028839_blood-evening-horror-map.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/BloodEveninghorrormap.html"
+    },
+	{
+      "id":6,
+      "nama_map":"Last day on Earth map for Minecraft PE 1.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/last-day-on-earth-legacy-version-31052020.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-11/1509884028_last-day-on-earth-map-1.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/LastdayonEarthmap.html"
+    },
+	{
+      "id":7,
+      "nama_map":"Marine Explorer map for Minecraft PE 1.16.20",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/marine-biologist-roleplay.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2020-08/1598188203_marine-explorer-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MarineExplorermap.html"
+    },
+	{
+      "id":8,
+      "nama_map":"Mario Galaxy map for Minecraft PE 1.0.4",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mario-64-full-map.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-03/1489495527_mario-galaxy-minecraft-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MarioGalaxymap.html"
+    },
+	{
+      "id":9,
+      "nama_map":"Mechanics Apocalypse map for Minecraft PE 1.1.4",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-07/1501082307_mechanics-apocalypse-map.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypsemap.html"
+    },
+	{
+      "id":10,
+      "nama_map":"Mechanical Apocalypse 2 map for Minecraft PE 1.1.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-06/1496656391_mechanical-apocalypse-map-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicalApocalypse2map.html"
+    },
+	{
+      "id":11,
+      "nama_map":"Mechanics Apocalypse 3 for Minecraft PE 1.1.5",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/mechanics-apocalypse-3.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-08/1502177087_mechanics-apocalypse-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/MechanicsApocalypse3.html"
+    },
+	{
+      "id":12,
+      "nama_map":"Radiator Springs map for Minecraft PE 1.0.8",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/carsland-ported.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-05/1494682985_lightning-mcqueen-in-minecraft.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/RadiatorSpringsmap.html"
+    },
+	{
+      "id":13,
+      "nama_map":"Realm of Beturune map for Minecraft PE 1.16.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2020-06/1593541429_beturune-realm-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/RealmofBeturunemap.html"
+    },
+	{
+      "id":14,
+      "nama_map":"Saving Santa map for Minecraft PE 1.0.0",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/SavingSantamap.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-12/1482429450_santa-claus-in-minecraft.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/SavingSantamap.html"
+    },
+	{
+      "id":15,
+      "nama_map":"Subnautica map for Minecraft PE 1.14.1",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/subnautica.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2019-12/1576869666_subnautica-map-2.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/Subnauticamap.html"
+    },
+	{
+      "id":16,
+      "nama_map":"The Building of Villager map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/the-building-of-villager.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441264871_villager.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheBuildingofVillagermap.html"
+    },
+	{
+      "id":17,
+      "nama_map":"The Fall of Heaven map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/the-fall-of-heaven-by-lordguntaz-smashpe-1.0.0.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474623665_the-fall-of-heaven-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheFallofHeavenmap.html"
+    },
+	{
+      "id":18,
+      "nama_map":"The Legend of Zelda map for Minecraft PE 1.0.3",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/link-to-the-pastmapa.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2017-03/1488899772_link-legend-of-zelda-in-mcpe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheLegendofZeldamap.html"
+    },
+	{
+      "id":19,
+      "nama_map":"The Walking Dead map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/twd-bean.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TheWalkingDeadmap.html"
+    },
+	{
+      "id":20,
+      "nama_map":"Turok Dimension map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/turok-bundle-update-1.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-10/1476367536_turok-dimension-map-pe.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/TurokDimensionmap.html"
+    },
+	{
+      "id":21,
+      "nama_map":"VerseCrafter: The Beginning map",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/versecrafter-the-beginning-update-4.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2015-09/1441556936_the-walking-dead-map-3.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/VerseCrafterTheBeginningmap.html"
+    },
+	{
+      "id":22,
+      "nama_map":"Visions of Time",
+      "map_url":"http://danie.alienhosted.com/mapsminecraft/v.ot-map-v0.2.zip",
+      "view_map":"https://fmcpe.com/uploads/posts/2016-09/1474617264_visions-of-time-1.jpg",
+      "des_map":"http://danie.alienhosted.com/mapsminecraft/VisionsofTime.html"
+    }
+  ]}
+  ]
+}
